@@ -1,0 +1,575 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Brijpay Link\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-23 10:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: includes/class-brijpay-user-sync.php:208
+#, php-format
+msgid "#%d) Importing client (%s): %s"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:264
+#, php-format
+msgid "#%d) Importing item (SKU: %s): TYPE: %s | Name: %s"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:645
+#, php-format
+msgid ""
+"%d) ID: %s | SKU: %s | Name: %s \n"
+msgstr ""
+
+#: includes/upgrade-path.php:52
+#, php-format
+msgid "%s has been upgraded from v%s to v%s"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:225
+msgid "Assign Revenue Category"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:723
+#, php-format
+msgid "Assigned Category: %s"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:705
+#, php-format
+msgid "Assigned Location Category: %s"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:273
+#, php-format
+msgid "Assigned to group #%d"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:169
+msgid "Authorization Token"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:14
+msgid "BRIJPAY"
+msgstr ""
+
+#. Author of the plugin
+msgid "Brijpay"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:300
+#, php-format
+msgid "Brijpay - %s"
+msgstr ""
+
+#. Name of the plugin
+msgid "Brijpay Link"
+msgstr ""
+
+#: includes/gateway-ipns/class-brijpay-telr.php:42
+msgid "Cart ID did not match with the transaction"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:265
+#, php-format
+msgid "Check if group \"%s\" exists"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:373
+msgid "Check if product exists"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:225
+#, php-format
+msgid "Check if user \"%s\" exists"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:152
+msgid "Configure BRIJPAY Cloud"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:332
+#, php-format
+msgid "Configure intervals and pagination limit for the %s"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:375
+msgid "Confirm Changes?"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:344
+msgid "Contracts"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:379
+msgid "Create new product..."
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:296
+#, php-format
+msgid "Creating group \"%s\""
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:233
+msgid "Creating user"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:353
+msgid "Day"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:232
+msgid "Deactivate Product as Draft"
+msgstr ""
+
+#: brijpay-link.php:121 brijpay-link.php:235
+msgid "Deactivated"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:316
+msgid "Disable"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:317
+msgid "Disable password reset email when new users are created"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:218
+msgid "Disable Product Stock"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:276
+#: includes/admin/class-brijpay-general-settings.php:277
+msgid "Disable WPML Duplicates"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:266
+msgid "Email Report for Deactivated Products"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:299
+#: includes/admin/class-brijpay-general-settings.php:300
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:246
+msgid "Enable Contracts as Normal product"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:253
+msgid "Enable Contracts recurring amount"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:239
+msgid "Enable Product Locations"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:301
+msgid ""
+"Enable the synchronization of BRIJPAY Cloud clients and register them in "
+"WordPress"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:226
+msgid "Enable to append Revenue Category from BRIJPAY Cloud to the products"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:219
+msgid "Enable to avoid BRIJPAY Cloud from overriding product stock status"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:254
+msgid ""
+"Enable to have recurring amount of Sale contracts. Primarily used with the "
+"Mindbody Payment Gateway."
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:233
+msgid ""
+"Enable to make deactivated products set to 'draft' status (unpublished) "
+"during BRIJPAY Cloud sync"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:247
+msgid ""
+"Enable to make Sale contracts as normal product. No dependency required for "
+"WooCommerce Subscription extension."
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:171
+msgid "Enter your provided authorization token"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:204
+msgid "Enter your provided product endpoint"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:165
+msgid "Enter your provided Store ID"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:310
+msgid "Enter your provided user endpoint"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:159
+msgid "Enter your provided webhook endpoint"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:381
+#, php-format
+msgid "Exists (ID: %d). Updating the product..."
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:294
+msgid "Failed to import"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:243
+#, php-format
+msgid "Failed! Error (%s): %s"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:633
+#, php-format
+msgid "Found %d deactivated products"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:360
+msgid "Frequency of Interval"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:104
+#: includes/admin/class-brijpay-general-settings.php:151
+msgid "General"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:352
+msgid "Hour"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://brijpay.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/brijpay-link/"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:231
+msgid "Import process being started"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:303
+msgid "Import process completed"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:376
+msgid ""
+"Interval changes will only take effect if you check this box. Current "
+"scheduled actions will be discarded and replaced with new ones based on your "
+"settings."
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:344
+msgid "Interval Type"
+msgstr ""
+
+#: includes/gateway-ipns/class-brijpay-pelecard.php:30
+#: includes/gateway-ipns/class-brijpay-paydollar.php:29
+#: includes/gateway-ipns/class-brijpay-telr.php:29
+#: includes/gateway-ipns/class-brijpay-epaync.php:44
+#: includes/gateway-ipns/class-brijpay-paygate.php:51
+#: includes/gateway-ipns/class-brijpay-paygate.php:86
+msgid "Invalid order ID"
+msgstr ""
+
+#: brijpay-link.php:117 brijpay-link.php:229
+msgid "Mindbody"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:355
+msgid "Month"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:229
+msgid "Multi location detected"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:313
+#, php-format
+msgid "Next request offset: %d"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:280
+#, php-format
+msgid "Next Request: %s"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:384
+msgid ""
+"Number of per page items retrieved from Brijpay Cloud for products and users "
+"sync. Default 50"
+msgstr ""
+
+#: includes/gateway-ipns/class-brijpay-gateway.php:122
+msgid "Order does not have any products from BRIJPAY Cloud."
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:182
+msgid "Order Status"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:342
+msgid "Packages"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:383
+msgid "Pagination Limit"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:163
+msgid "Payment Store ID"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:240
+msgid "Populate products available on multiple locations"
+msgstr ""
+
+#: includes/gateway-ipns/class-brijpay-gateway.php:177
+#, php-format
+msgid "Processing Order #%d"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:196
+msgid "Product Configuration"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:202
+msgid "Product Endpoint"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:208
+msgid "Product Status"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:385
+msgid "Product was in trash. Restoring to the default product status."
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:343
+msgid "Products"
+msgstr ""
+
+#: brijpay-link.php:373
+msgid "Requires WooCommerce to be installed and activated."
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:159
+#: includes/class-brijpay-user-sync.php:154
+#, php-format
+msgid "Retrying in %d seconds..."
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:336
+msgid "scheduled actions"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:330
+msgid "Scheduler Configuration"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:278
+msgid ""
+"Select if you want to manually duplicate BRIJPAY Cloud products for other "
+"languages supported by WPML"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:175
+msgid "Send Order Data"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:176
+msgid "Send woocommerce order data to BRIJPAY Cloud"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:632
+msgid "Sending email report for deactivated products..."
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:267
+msgid ""
+"Sends an email report with a list of products that have been deactivated. "
+"(You can add multiple emails by separating them with commas.)"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:341
+msgid "Services"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:361
+msgid "Set the frequency of the interval selected above. Default 1"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:345
+msgid "Set the frequency type for the scheduler. Default \"Day\""
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:369
+msgid ""
+"Set the schedulers start time. The default value is the time of plugin "
+"activation. This is not compatible with the Interval type Hour"
+msgstr ""
+
+#: brijpay-link.php:109
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:368
+msgid "Start time"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:274
+msgid "Successfully imported"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:280
+#, php-format
+msgid "Successfully imported (ID: %d)%s"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:655
+msgid "Successfully sent"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:293
+msgid "Synchronize clients from BRIJPAY Cloud"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:197
+msgid "Synchronize products from BRIJPAY Cloud"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:209
+msgid ""
+"The default status of the product when syncing NEW BRIJPAY Cloud items in "
+"WooCommerce"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:638
+#, php-format
+msgid ""
+"The following is a list of deactivated products ran during the BRIJPAY Cloud "
+"synchronization at %s\n"
+"\n"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:183
+msgid "The status of the woocommerce order when sending to BRIJPAY Cloud"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:203
+#, php-format
+msgid "Total clients: %d"
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:227
+#, php-format
+msgid "Total products: %d"
+msgstr ""
+
+#: includes/gateway-ipns/class-brijpay-gateway.php:179
+msgid "Transmitting data to webhook Brijpay..."
+msgstr ""
+
+#: includes/class-brijpay-cloud-sync.php:657
+msgid "Unable to send the report"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:235
+msgid "Updating user"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:292
+msgid "User Configuration"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:254
+#, php-format
+msgid "User created #%d"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:229
+msgid "User does not exist and inactive. Skip.."
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:308
+msgid "User Endpoint"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:251
+msgid "User is notified for password reset mail"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:315
+msgid "User Notification"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:256
+#, php-format
+msgid "User updated #%d"
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:269
+#, php-format
+msgid "Using group #%d"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:157
+msgid "Webhook Endpoint"
+msgstr ""
+
+#: includes/admin/class-brijpay-general-settings.php:354
+msgid "Week"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WooCommerce Inventory Sync with Mindbody with several tokenized payment "
+"integrations."
+msgstr ""
+
+#: brijpay-link.php:369
+#, php-format
+msgid ""
+"You need to update your WordPress version to atleast version 5.0.0. Current "
+"version %s is being used."
+msgstr ""
+
+#: brijpay-link.php:364
+#, php-format
+msgid ""
+"You need to upgrade your PHP to atleast version 7.0.0. Currently %s is used. "
+"To resolve the upgrade please contact your server host."
+msgstr ""
+
+#: brijpay-link.php:376
+#, php-format
+msgid ""
+"You need to upgrade your WooCommerce to atleast version 4.3.0. Currently %s "
+"is used."
+msgstr ""
+
+#: includes/class-brijpay-user-sync.php:92
+msgid "Your account is deactivated. Please contact site administrator."
+msgstr ""
